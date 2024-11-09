@@ -1,0 +1,307 @@
+.introHeaders {
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    display:block;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0.3rem;
+    white-space: nowrap;
+    margin-top: 5%;
+    margin-left: 5%; 
+   
+    min-width: none;
+    color: #355E3B;
+}
+
+.cardGroups {
+    margin-left: 11%;
+    margin-right: 11%;
+    height: 542.53;
+    width: 479.54;
+}
+
+/* @media screen and (max-width: 768px) {
+.cardGroups {
+    margin-top: 5%;
+}
+} */
+
+
+.cardIcons {
+    margin-top: 30px;
+}
+
+.cardTitles {
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+    padding-top: 20px;
+    letter-spacing: .03em;
+    color: #235347;
+}
+
+.cardTexts {
+    font-family: Avenir-Roman, Avenir;
+    font-size: 20px;
+    letter-spacing: .05em;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #235347;
+}
+
+.cardColors {
+    background: #daf1de !important;
+    margin: 30px;
+}
+
+.allCardView {
+    display: inline-flex;
+    margin: 93px;
+}
+
+/* .container .heading {
+    width:85%;
+    margin: auto;
+    text-align: center;
+} */
+
+.container .heading h1 {
+    color: #235347;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.wrapper {
+    width: 85%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.content {
+    width: 35%;
+    margin: 50px 30px;
+    margin-top: 5%;
+
+    /* margin-bottom: 3%; */
+}
+
+.content h1 {
+    color:#235347;
+    letter-spacing: .04em;
+    font-size: 50px;
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    font-weight: 400;
+
+}
+
+.content h4 {
+    color:#235347;
+    letter-spacing: .03em;
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.2;
+    margin-top: 10px;
+}
+
+.content h3 {
+    color:#235347;
+    letter-spacing: .03em;
+    font-size: 20px;
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    font-weight: 400;
+    line-height: 1.5;
+    margin-top: 15px;
+    .fa-fw {
+        padding: 1%;
+      }
+}
+
+.image {
+    width: 50%;
+}
+
+.image img {
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width: 768px)  {
+
+    .wrapper {
+        flex-direction: column;
+        margin-top: 0px;
+    }
+    /* .container .heading h1 {
+        
+        font-size: 40px;
+    } */
+
+    .content, .image {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .content h1 {
+        font-size: 25px;
+        /* margin-left: 10%; */
+    }
+
+    .content h4 {
+        font-size: 25px;
+        /* margin-left: 10%; */
+    } 
+
+    .content h3 {
+        font-size: 15px;
+        /* margin-left: 10%; */
+    } 
+
+
+    
+}
+
+@media screen and (max-width: 991px) { 
+
+    .wrapper {
+        flex-direction: column;
+        margin-top: 0px;
+    }
+    .content, .image {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+
+}
+
+/* .footer {
+    text-align: center;
+    background-color:  #daf1de;
+    color: #235347;
+    margin-top: 10%;
+    height: 40px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .guyWorking {
+  float: right;
+  margin: 5px;
+  padding: 0 35%;
+  padding-right: 6%;
+  padding-bottom: 30%;
+  max-width: 100%;
+  height: auto;
+  position: relative; 
+} */
+
+
+/* hero home page */
+
+
+
+/* .fC {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 5rem;
+    background-color: white;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } */
+
+  /* .formM {
+    width: 100%;
+    max-width: 820px;
+    background-color: #fff;  */
+    /* border-radius: 10px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);  */
+    /* z-index: 1000;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  } */
+
+  /* .contact-infoO {
+    padding: 7rem 7rem;  */
+    /* original 2.3 rem 2.2 rem */
+    /* position: relative; */
+    /* margin-bottom: 20rem; */
+   
+  /* } 
+
+  .contact-infoO .titleE {
+    color:#235347;
+    letter-spacing: .04em;
+    font-size: 50px;
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    font-weight: 400;
+ }
+
+ .informationN {
+    display: flex;
+    color: #8eb69b;
+    margin: 0.7rem 0;
+    align-items: center;
+    font-size: 1.0rem;
+  }
+
+  .phoneDivV {
+    letter-spacing: .03em;
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    font-weight: 400;
+    color: #235347;
+    font-size: 18px;
+    
+
+} */
+
+/* .contact-formM {
+   
+    position: relative; */
+    /* margin-top: 30%;
+    margin-bottom: 35%; */
+   
+  /* } */
+  
+
+  /* .guyWorkingG { 
+    float: right; 
+    margin: 5px;
+    padding: 0 35%;
+    padding-right: 6%;
+    padding-bottom: 30%;
+    max-width: 100%;
+    height: auto;
+    position: relative;
+  }  */
+ 
+ 
+
+ 
+
+
+
+
+
+ 
+
+

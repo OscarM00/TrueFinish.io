@@ -1,0 +1,78 @@
+.aboutHeaders {
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    font-variation-settings: 'wght' 400, 'opsz' 11;
+    display: block;
+    font-size: 70px;
+    /* font-weight: 400; */
+    letter-spacing: .03em;
+    white-space: inherit;
+    margin-top: 4%;
+    margin-left: 3%; 
+    color: #235347;
+}
+
+.underLine {
+    /* text-decoration: underline; */
+    display: block;
+    
+}
+
+.aboutText {
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    font-variation-settings: 'wght' 400, 'opsz' 11;
+    font-size: 20px;
+    letter-spacing: .03em;
+    color: #235347;
+    padding-top: 10px;
+    margin-left: 3%; 
+    margin-right: 3%;
+
+}
+
+.contactText {
+    /* font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    font-size: 35px;
+    letter-spacing: .05em;
+    white-space: inherit;
+    color: #235347;
+    margin-left: 5%;  */
+    /* text-decoration: underline; */
+    color: #8eb69b;
+    display: inline-block;
+    font-family: Avenir-Roman, Avenir;
+    padding-top: 2%;
+    padding-right: 1%;
+
+}
+
+.underContactUs {
+    display: inline-block;
+}
+
+.underName {
+    font-family: Avenir-Roman, Avenir;
+    letter-spacing: .05em;
+    font-size: 25px;
+    color: #8eb69b;
+    /* display: block; */
+}
+
+.adamImg {
+    float: right;
+    padding: 4%;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.adamaboutText {
+    text-align: justify;
+    font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+    font-variation-settings: 'wght' 400, 'opsz' 11;
+    font-size: 20px;
+    letter-spacing: .03em;
+    color: #235347;
+    padding-top: 10px;
+    margin-left: 3%; 
+    margin-right: 3%;
+}
