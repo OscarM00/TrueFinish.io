@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/truefinish.io/static/css/main.3d092228.css",
+    "main.js": "/truefinish.io/static/js/main.3705297f.js",
+    "static/media/adamTwo.jpg": "/truefinish.io/static/media/adamTwo.12d6205e29a35a84ca32.jpg",
+    "static/media/pI.jpg": "/truefinish.io/static/media/pI.8b1c65fb622f934f598a.jpg",
+    "static/media/TrueFinishLogo.svg": "/truefinish.io/static/media/TrueFinishLogo.2c1483b4d2aab21cb8a6117aec3cb72e.svg",
+    "static/media/Phone Icon.svg": "/truefinish.io/static/media/Phone Icon.a19389b3bfa87e4dc0d823dd522216b2.svg",
+    "static/media/PaintRollerIcon.svg": "/truefinish.io/static/media/PaintRollerIcon.172a87dd968343f18f776d775b6bbc8d.svg",
+    "static/media/DrywallIcon.svg": "/truefinish.io/static/media/DrywallIcon.09c4602aa8d67a6897eba4f4b48a4a5b.svg",
+    "static/media/Mail Icon.svg": "/truefinish.io/static/media/Mail Icon.e09f281a8fab0e36867a01e2f279459a.svg",
+    "index.html": "/truefinish.io/index.html",
+    "static/media/Time Icon.svg": "/truefinish.io/static/media/Time Icon.7b94a0c4c06919b675eeed6519b085d9.svg",
+    "static/media/messageIcon.svg": "/truefinish.io/static/media/messageIcon.f3b7a0539f67269fc7c025367f027b13.svg",
+    "main.3d092228.css.map": "/truefinish.io/static/css/main.3d092228.css.map",
+    "main.3705297f.js.map": "/truefinish.io/static/js/main.3705297f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d092228.css",
+    "static/js/main.3705297f.js"
+  ]
+}
